@@ -1,0 +1,9 @@
+.venv/ # don’t push the venv!
+__pycache__/
+*.pyc
+.env
+*.env
+.env
+*.env
+.env
+*.env
