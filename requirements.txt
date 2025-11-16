@@ -3,3 +3,4 @@ openai
 azure-search-documents
 google-search-results
 python-dotenv
+acp-sdk==1.0.3
